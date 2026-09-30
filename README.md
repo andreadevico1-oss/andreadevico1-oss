@@ -1,6 +1,4 @@
-# Andrea De Vico
-
-Quantitative Finance · Financial Markets · Data
+# Quantitative Finance · Financial Markets · Data
 
 ---
 
