@@ -18,5 +18,6 @@
 
 - ML Applications in Quant Finance
 - Volatility Modelling from OHLC data
+- Financial Decisions Under Risk
 - Market Microstructure & Passive Flows
 - Statistical Computing  
